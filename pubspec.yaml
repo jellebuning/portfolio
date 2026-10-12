@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  url_launcher: ^6.3.2
+  url_launcher: ^6.3.3
   flutter_svg: ^2.3.0
   web: ^1.1.1
 
