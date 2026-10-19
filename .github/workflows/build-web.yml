@@ -15,7 +15,7 @@ jobs:
           cache: true
 
       - name: Build web
-        run: flutter build web --release --base-href "/"
+        run: flutter build web --release --base-href "/portfolio/"
 
       - name: Upload web build files
         uses: actions/upload-artifact@v7
