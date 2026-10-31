@@ -23669,7 +23669,7 @@ $iSd:1}
 A.adr.prototype={
 $1(a){var s=A.ce().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/deb287481e3ce9468f3434937ced4240a70539ca/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/89c39edfdfae2949f6806e4a315c0c08522238b7/":s)+a},
 $S:70}
 A.Fn.prototype={
 gn(a){var s=this.a
