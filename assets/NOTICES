@@ -4812,7 +4812,6 @@ url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
 vector_graphics_codec
-vector_graphics_compiler
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
@@ -27519,6 +27518,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 --------------------------------------------------------------------------------
 url_launcher
 vector_graphics
+vector_graphics_compiler
 vector_math
 
 Copyright 2013 The Flutter Authors
